@@ -79,3 +79,6 @@ Send a POST request to `http://localhost:3000/ingest` with JSON:
 - This is a small demonstration backend; it does not include a frontend or authentication.
 - Matching weights are intentionally simple and can be adjusted in `server.js`.
 - The database file is generated locally and should not be committed.
+- Skills are prioritised because they are the main indicator of job fit. Experience and culture keywords provide additional signals.
+- SQLite was chosen because it is lightweight and easy to run locally.
+- AI Usage: ChatGPT was used for coding assistance, debugging, SQL queries, and documentation.
