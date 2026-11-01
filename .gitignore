@@ -1,0 +1,6 @@
+node_modules/
+recruiter.db
+recruiter.db-shm
+recruiter.db-wal
+.env
+.DS_Store

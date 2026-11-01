@@ -1,0 +1,13 @@
+{
+  "name": "recruiter-bot",
+  "version": "1.0.0",
+  "description": "A simple recruiter matching API built with Node.js, Express and SQLite.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.4.1",
+    "express": "^5.1.0"
+  }
+}
